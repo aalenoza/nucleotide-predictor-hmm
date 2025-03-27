@@ -1,22 +1,5 @@
 # Using Hidden Markov Models for Predicting Region of Coding DNA
 
-## Table of Contents
-1. [Introduction](#1-introduction)  
-2. [Features](#2-features)  
-3. [Setup and Installation](#3-setup-and-installation)  
-4. [How to Use](#4-how-to-use)  
-   - [Input Format](#input-format)  
-   - [Output Format](#output-format)  
-5. [Code Explanation](#5-code-explanation)  
-   - [Functions Overview](#functions-overview)  
-   - [Flow of Execution](#flow-of-execution)  
-6. [Example Usage](#6-example-usage)
-   - [Run the script](#run-the-script)   
-7. [Known Issues and Limitations](#7-known-issues-and-limitations)  
-8. [Credits](#8-credits)   
-
----
-
 ## 1. Introduction
 
 This Python script implements a **Hidden Markov Model (HMM)** to predict regions of coding DNA based on a sequence of observable and hidden states. The program reads input from a file, processes sequences using HMM principles, and outputs computed probabilities for specified cases.
